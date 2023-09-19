@@ -1,2 +1,2 @@
-# alura-Boocks-2A
-Projeto desenvolvido com auxilio do curso HTML e CSS: Responsividade com Mobile-Fisrt da plataforma Alura
+# Alura-Books-2A
+Projeto desenvolvido com auxílio do curso HTML e CSS: Responsividade com Mobile-First da plataforma Alura
