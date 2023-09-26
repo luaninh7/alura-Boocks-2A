@@ -1,0 +1,20 @@
+.cabecalho-menu-hambuger{
+    width: 24px;
+    height: 24px;
+    background-image: url(".. /img/Menu.svg");
+    display: inline-block;
+    background-repeat: center;
+}
+.cabecalho {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+.container-img {
+    padding: 1em;
+}
