@@ -27,8 +27,26 @@
 .lista-menu {
     display: none;
     position: absolute;
+    top: 100%;
+    width: 60vw;
 }
 
 .container~botao :checked ~.lista-menu{
     display: block;
+}
+
+.lista-menu-titulo,  .lista-menu-item{
+    padding: 1em;
+    background-color: var(--branco);
+}
+
+.lista-menu-titulo{
+    color: var(--laranja)
+}
+
+.lista-menu-link{
+    background: var(--azul-degrade);
+    -webkit-background-clip: ;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
