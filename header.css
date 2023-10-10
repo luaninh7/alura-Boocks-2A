@@ -2,9 +2,9 @@
     width: 24px;
     height: 24px;
     background-image: url("../img/Menu.svg");
-    display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
+    display: inline-block;
 }
 
 .cabecalho {
@@ -41,7 +41,8 @@
 }
 
 .lista-menu-titulo{
-    color: var(--laranja)
+    color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu-link{
@@ -49,4 +50,9 @@
     -webkit-background-clip: ;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    text-transform: uppercase;
+}
+
+.container-botao {
+    display: none;
 }
